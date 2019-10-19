@@ -14,4 +14,17 @@ const getExchangeRate = async countryCode => {
   return results.data;
 };
 
-module.exports = { getExchangeRate };
+const getOffers = async (lat, long) => {
+  const results = await axios.get(
+    `https://api.discover.com/dci-offers/v2/offers?lat=${lat}&lng=${long}&radius=20&lang=en&sortdir=asc`,
+    {
+      headers: {
+        "X-DFS-API-PLAN": "DCIOFFERS_SANDBOX",
+        Authorization: `Bearer ${config.get("authorization")}`
+      }
+    }
+  );
+  return results.data.result;
+};
+
+module.exports = { getExchangeRate, getOffers };

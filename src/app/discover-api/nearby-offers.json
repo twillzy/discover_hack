@@ -1,0 +1,189 @@
+{
+  "result": [
+    {
+      "id": 15533,
+      "updated_at": 1531271039,
+      "title": "Hotel Villa Real STN - Madrid",
+      "slug": "hotel-villa-real-stn-madrid",
+      "name": "Enjoy VIP benefits at all Signature properties when you make a reservation through the Diners Club Hotel Collection.",
+      "highlight": "Hotel Villa Real",
+      "details": "&lt;p&gt;In order to redeem this offer, you MUST &lt;a href=&quot;http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=115&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to make a reservation through the Diners Club Hotel Collection.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=115&quot; target=&quot;_blank&quot;&gt;Receive the following benefits at Hotel Villa Real:&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;bull; Buffet breakfast for two daily&lt;br&gt;&amp;bull; $50 hotel credit on &amp;ldquo;a la carte&amp;rdquo; at East 47, once during stay (Valid for a minimum of two guests. Subject to a minimum consumption of a starter and a main dish, per person. Excludes beverages)&lt;br&gt;&amp;bull; Welcome bottle of Spanish wine&lt;br&gt;&amp;bull; Bath aromatics salts set&lt;/p&gt;&lt;p&gt;The following amenities are subject to availability at time of check-in:&lt;br&gt;&amp;bull; Upgrade&lt;br&gt;&amp;bull; Early check-in&lt;br&gt;&amp;bull; Late check-out&lt;/p&gt;&lt;p&gt;Diners Club International Ltd. and its affiliates shall not be held responsible to provide any benefits made available by Touraid Travel Inc., Signature Travel Network and its affiliates on this website. See Terms &amp;amp; Conditions listed on the website.&lt;/p&gt;",
+      "images": "https://dinersclubofferstool.com/wp-content/uploads/2016/05/Hotel-Villa-Real-VillaReal-Entrance.jpg",
+      "merchant_logo": "https://dinersclubofferstool.com/wp-content/uploads/2016/03/Privileges_HotelCollection_LogoTile-01-e1441038908526.jpg",
+      "merchant_name": "Hotel Villa Real",
+      "merchant_email": "",
+      "merchant_phone": "34-91-420-37-67",
+      "merchant_website": "http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=115",
+      "location_notes": "",
+      "price_range": "",
+      "small_business": false,
+      "cuisine_type": "",
+      "destinations": [
+        { "id": 130, "name": "Spain", "slug": "spain", "parent": 0 },
+        { "id": 456, "name": "Madrid", "slug": "madrid", "parent": 130 }
+      ],
+      "locations": [
+        {
+          "title": "Plaza de las Cortes, 10, 28014 Madrid, Spain",
+          "body": "Plaza de las Cortes, 10Madrid28014Spain",
+          "address": "Plaza de las Cortes, 10, 28014 Madrid, Spain",
+          "point": [-3.69704, 40.4156199],
+          "valid_at": "location",
+          "country_id": 130,
+          "city_id": 456
+        }
+      ],
+      "tags": [{ "slug": "stay" }],
+      "marks": [{ "slug": "diners-club-acceptance-mark" }],
+      "partner": [],
+      "privileges_only": false,
+      "qrcode": "",
+      "barcode": "",
+      "countrywide": false,
+      "collections": [{ "slug": "dinersclubhotelcollection" }],
+      "campaigns": [],
+      "product": [],
+      "acceptance_level": [],
+      "distance": 0.36434799034717
+    },
+    {
+      "id": 15287,
+      "updated_at": 1531271039,
+      "title": "The Westin Palace, Madrid STN - Madrid",
+      "slug": "the-westin-palace-madrid-stn-madrid",
+      "name": "Enjoy VIP benefits at all Signature properties when you make a reservation through the Diners Club Hotel Collection.",
+      "highlight": "The Westin Palace, Madrid",
+      "details": "&lt;p&gt;In order to redeem this offer, you MUST &lt;a href=&quot;http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=939&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to make a reservation through the Diners Club Hotel Collection.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=939&quot; target=&quot;_blank&quot;&gt;Receive the following benefits at The Westin Palace, Madrid:&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;bull; Full breakfast for two daily or continental breakfast for two daily served in Restaurant La Rotonda (supplemental service charge is applicable for in-room dining)&lt;br&gt;&amp;bull; One Lunch or dinner for two, per room, per stay (excluding alcohol, taxes and gratuities)&lt;br&gt;&amp;bull; Complimentary WiFi&lt;/p&gt;&lt;p&gt;The following amenities are subject to availability at the time of check-in:&lt;br&gt;&amp;bull; Upgrade&lt;br&gt;&amp;bull; Early check-in&lt;br&gt;&amp;bull; Late check-out&lt;/p&gt;&lt;p&gt;Diners Club International Ltd. and its affiliates shall not be held responsible to provide any benefits made available by Touraid Travel Inc., Signature Travel Network and its affiliates on this website. See Terms &amp;amp; Conditions listed on the website.&lt;/p&gt;",
+      "images": "https://dinersclubofferstool.com/wp-content/uploads/2016/05/Westin-Palace-Madrid-wes79lo.142254.jpg",
+      "merchant_logo": "https://dinersclubofferstool.com/wp-content/uploads/2016/03/Privileges_HotelCollection_LogoTile-01-e1441038908526.jpg",
+      "merchant_name": "The Westin Palace, Madrid",
+      "merchant_email": "",
+      "merchant_phone": "34-913-60-80-00",
+      "merchant_website": "http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=939",
+      "location_notes": "",
+      "price_range": "",
+      "small_business": false,
+      "cuisine_type": "",
+      "destinations": [
+        { "id": 130, "name": "Spain", "slug": "spain", "parent": 0 },
+        { "id": 456, "name": "Madrid", "slug": "madrid", "parent": 130 }
+      ],
+      "locations": [
+        {
+          "title": "Plaza de las Cortes, 7, 28014 Madrid, Spain",
+          "body": "Plaza de las Cortes, 7Madrid28014Spain",
+          "address": "Plaza de las Cortes, 7, 28014 Madrid, Spain",
+          "point": [-3.6954098, 40.4153578],
+          "valid_at": "location",
+          "country_id": 130,
+          "city_id": 456
+        }
+      ],
+      "tags": [{ "slug": "stay" }],
+      "marks": [{ "slug": "diners-club-acceptance-mark" }],
+      "partner": [],
+      "privileges_only": false,
+      "qrcode": "",
+      "barcode": "",
+      "countrywide": false,
+      "collections": [{ "slug": "dinersclubhotelcollection" }],
+      "campaigns": [],
+      "product": [],
+      "acceptance_level": [],
+      "distance": 0.45208846181992
+    },
+    {
+      "id": 15467,
+      "updated_at": 1531271039,
+      "title": "Gran Melia Fenix STN - Madrid",
+      "slug": "gran-melia-fenix-stn-madrid",
+      "name": "Enjoy VIP benefits at all Signature properties when you make a reservation through the Diners Club Hotel Collection.",
+      "highlight": "Gran Melia Fenix",
+      "details": "&lt;p&gt;In order to redeem this offer, you MUST &lt;a href=&quot;http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=5088&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to make a reservation through the Diners Club Hotel Collection.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=5088&quot; target=&quot;_blank&quot;&gt;Receive the following benefits at Gran Melia Fenix:&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;bull; Full breakfast for each guest daily in Fenix&lt;br&gt;&amp;bull; 40 Euro food and beverage credit, per room, per stay (Excluding Caray restaurant)&lt;br&gt;&amp;bull; Welcome amenity&lt;/p&gt;&lt;p&gt;The following amenities are subject to availability at the time of check-in/departure:&lt;br&gt;&amp;bull; Upgrade&lt;br&gt;&amp;bull; Early check-in&lt;br&gt;&amp;bull; Late check-out&lt;/p&gt;&lt;p&gt;Diners Club International Ltd. and its affiliates shall not be held responsible to provide any benefits made available by Touraid Travel Inc., Signature Travel Network and its affiliates on this website. See Terms &amp;amp; Conditions listed on the website.&lt;/p&gt;",
+      "images": "https://dinersclubofferstool.com/wp-content/uploads/2016/09/Gran-Melia-Fenix-Rotonda.jpg",
+      "merchant_logo": "https://dinersclubofferstool.com/wp-content/uploads/2016/03/Privileges_HotelCollection_LogoTile-01-e1441038908526.jpg",
+      "merchant_name": "Gran Melia Fenix",
+      "merchant_email": "",
+      "merchant_phone": "34-902-14-44-40",
+      "merchant_website": "http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=5088",
+      "location_notes": "",
+      "price_range": "",
+      "small_business": false,
+      "cuisine_type": "",
+      "destinations": [
+        { "id": 130, "name": "Spain", "slug": "spain", "parent": 0 },
+        { "id": 456, "name": "Madrid", "slug": "madrid", "parent": 130 }
+      ],
+      "locations": [
+        {
+          "title": "Calle de Hermosilla, 2, 28001 Madrid, Spain",
+          "body": "Calle de Hermosilla 2Madrid28001Spain",
+          "address": "Calle de Hermosilla, 2, 28001 Madrid, Spain",
+          "point": [-3.6892856, 40.426504],
+          "valid_at": "location",
+          "country_id": 130,
+          "city_id": 456
+        }
+      ],
+      "tags": [{ "slug": "stay" }],
+      "marks": [{ "slug": "diners-club-acceptance-mark" }],
+      "partner": [],
+      "privileges_only": false,
+      "qrcode": "",
+      "barcode": "",
+      "countrywide": false,
+      "collections": [{ "slug": "dinersclubhotelcollection" }],
+      "campaigns": [],
+      "product": [],
+      "acceptance_level": [],
+      "distance": 1.0179678417508
+    },
+    {
+      "id": 15546,
+      "updated_at": 1531271039,
+      "title": "InterContinental Madrid STN - Madrid",
+      "slug": "intercontinental-madrid-stn-madrid",
+      "name": "Enjoy VIP benefits at all Signature properties when you make a reservation through the Diners Club Hotel Collection.",
+      "highlight": "InterContinental Madrid",
+      "details": "&lt;p&gt;In order to redeem this offer, you MUST &lt;a href=&quot;http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=114&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to make a reservation through the Diners Club Hotel Collection.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=114&quot; target=&quot;_blank&quot;&gt;Receive the following benefits at InterContinental Madrid:&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;bull; Buffet breakfast for two daily at the restaurant or club lounge. Continental breakfast in guest room.&lt;br&gt;&amp;bull; For Premium and Presidential Suite bookings: Roundtrip airport transfers&lt;br&gt;&amp;bull; Reina Sofia Museum tickets for two. Three nights minimum stay required&lt;br&gt;&amp;bull; Complimentary club lounge access with exclusive services: breakfast, free internet, private check-in and check-out, daily snacks and refreshments&lt;br&gt;&amp;bull; Welcome VIP amenities&lt;/p&gt;&lt;p&gt;The following amenities are subject to availability at time of check-in/departure:&lt;br&gt;&amp;bull; Upgrade&lt;br&gt;&amp;bull; Early check-in&lt;br&gt;&amp;bull; Late check-out&lt;/p&gt;&lt;p&gt;Diners Club International Ltd. and its affiliates shall not be held responsible to provide any benefits made available by Touraid Travel Inc., Signature Travel Network and its affiliates on this website. See Terms &amp;amp; Conditions listed on the website.&lt;/p&gt;",
+      "images": "https://dinersclubofferstool.com/wp-content/uploads/2016/09/WhiteGlove360X185.jpg",
+      "merchant_logo": "https://dinersclubofferstool.com/wp-content/uploads/2016/03/Privileges_HotelCollection_LogoTile-01-e1441038908526.jpg",
+      "merchant_name": "InterContinental Madrid",
+      "merchant_email": "",
+      "merchant_phone": "34-917-00-73-00",
+      "merchant_website": "http://www.signaturetravelnetwork.com/microsites/index.cfm?pageaction=hotel_view&amp;site_id=12&amp;agency_id=1732&amp;hotel_id=114",
+      "location_notes": "",
+      "price_range": "",
+      "small_business": false,
+      "cuisine_type": "",
+      "destinations": [
+        { "id": 130, "name": "Spain", "slug": "spain", "parent": 0 },
+        { "id": 456, "name": "Madrid", "slug": "madrid", "parent": 130 }
+      ],
+      "locations": [
+        {
+          "title": "Paseo de la Castellana, 49, 28046 Madrid, Spain",
+          "body": "Paseo de la Castellana, 49Madrid20846Spain",
+          "address": "Paseo de la Castellana, 49, 28046 Madrid, Spain",
+          "point": [-3.6902152, 40.4363444],
+          "valid_at": "location",
+          "country_id": 130,
+          "city_id": 456
+        }
+      ],
+      "tags": [{ "slug": "stay" }],
+      "marks": [{ "slug": "diners-club-acceptance-mark" }],
+      "partner": [],
+      "privileges_only": false,
+      "qrcode": "",
+      "barcode": "",
+      "countrywide": false,
+      "collections": [{ "slug": "dinersclubhotelcollection" }],
+      "campaigns": [],
+      "product": [],
+      "acceptance_level": [],
+      "distance": 1.5307656024808
+    }
+  ],
+  "ok": true
+}
